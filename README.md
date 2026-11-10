@@ -8,5 +8,5 @@ The project has NOT been abandoned! Work is ongoing, but there’s a major issue
 
 
 
-https://youtu.be/-wIhM1nUSk4
-
+New vid !(https://youtu.be/aETdSycD5Hs)
+the issue is that the Havok physics engine crashes due to overload—the more destruction there is, the sooner the game crashes. The audio is poor because of the OBS recording; I ended up turning off the in-game sound. Also, my PC is just not very powerful -_-
