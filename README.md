@@ -1,4 +1,4 @@
-<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/546764e9-39f6-4cec-b754-eed6cf2cf6f8" /># Recomp Incredible Hulk 2008 REMASTER (Xbox360 ver.) on PC!
+Recomp Incredible Hulk 2008 REMASTER (Xbox360 ver.) on PC!
 
 At this stage, this is an ANNOUNCEMENT and a very rough, early version.
 
